@@ -1,4 +1,5 @@
 # Getting and Cleaning Data - Course Project
+# Pitesting Test 5 
 
 This is the course project for the Getting and Cleaning Data Coursera course.
 The R script, `run_analysis.R`, does the following:
@@ -15,3 +16,5 @@ The R script, `run_analysis.R`, does the following:
    variable for each subject and activity pair.
 
 The end result is shown in the file `tidy.txt`.
+
+
